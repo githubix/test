@@ -1,5 +1,5 @@
 <?php
 
-echo "This is Travis ci first test4!"
+echo "git fetch test!"
 
 ?>
